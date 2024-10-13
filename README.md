@@ -24,9 +24,7 @@ Follow the instructions below to get the game running on your machine:
 1. Clone the Repository
 
 Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command to clone the repository:
-'''bash
-git clone https://github.com/pavanviju/Rush-Hour.git
-'''bash
+'''git clone https://github.com/pavanviju/Rush-Hour.git'''
 
 2. Navigate to the Project Directory
 
