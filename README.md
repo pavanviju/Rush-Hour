@@ -21,15 +21,14 @@
 ## Setup
 Follow the instructions below to get the game running on your machine:
 
-```bash
-# Clone the repository
+1. Clone the Repository
+
+Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command to clone the repository:
+'''bash
 git clone https://github.com/pavanviju/Rush-Hour.git
+'''bash
 
-# Navigate to the project directory
-cd Rush Hour
+2. Navigate to the Project Directory
 
-# Install required packages
-pip install -r requirements.txt
+Once the repository is cloned, navigate into the project directory:
 
-# Run the game
-python main.py
