@@ -19,10 +19,17 @@
 ---
 
 ## Setup
-1. Clone the repository: git clone https://github.com/pavanviju/Rush-Hour.git
-2. ![Alt Text](URL_or_relative_path_to_image)
+Follow the instructions below to get the game running on your machine:
 
-3. Navigate to the project directory: cd Rush Hour
-4. Install required packages: pip install -r requirements.txt
-5. Run the game: python main.py
+```bash
+# Clone the repository
+git clone https://github.com/pavanviju/Rush-Hour.git
 
+# Navigate to the project directory
+cd Rush Hour
+
+# Install required packages
+pip install -r requirements.txt
+
+# Run the game
+python main.py
