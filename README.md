@@ -18,15 +18,50 @@
 
 ---
 
-## Setup
-Follow the instructions below to get the game running on your machine:
 
-1. Clone the Repository
+### Setup
 
-Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command to clone the repository:
-'''git clone https://github.com/pavanviju/Rush-Hour.git'''
+To set up and run the **Rush Hour** game on your local machine, follow these steps:
 
-2. Navigate to the Project Directory
+1. **Clone the Repository**
 
-Once the repository is cloned, navigate into the project directory:
+   Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/pavanviju/Rush-Hour.git
+   
+2. **Navigate to the Project Directory**
+
+   Change to the project directory using:
+
+   ```bash
+   cd Rush-Hour
+
+3. **Set Up a Virtual Environment (Optional but Recommended)**
+
+   To keep your dependencies organized, it's a good practice to create a virtual environment. You can do this by running:
+
+   ```bash
+   python -m venv my_venv
+
+4. **Install Dependencies**
+
+   To install the required Python dependencies, run the following command:
+
+   ```bash
+   pip install -r requirements.txt
+
+5. **Run the Game**
+
+   After installing the dependencies, you can run the game using the following command:
+
+   ```bash
+   python main.py
+
+
+
+
+
+
+
 
