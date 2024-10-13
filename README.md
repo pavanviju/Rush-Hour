@@ -19,4 +19,8 @@
 ---
 
 ## Setup
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/pavanviju/Rush-Hour.git
+2. Navigate to the project directory: cd Rush Hour
+3. Install required packages: pip install -r requirements.txt
+4. Run the game: python main.py
+
