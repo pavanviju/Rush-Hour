@@ -1,6 +1,8 @@
 # Rush Hour
 
 "Rush Hour" is a fast-paced, turn-based word game designed for two players, where participants compete in a round-robin format. The game challenges players to form valid words based on randomly generated 1 or 2-letter prompts, earning points with each correct word while managing limited lives. Players must think quickly, as each turn is timed, creating a thrilling experience. Built using Python’s Tkinter for the user interface and Pygame for background music, Bomb Party combines fun gameplay, a sleek dark mode interface, and an engaging soundtrack to create an interactive and competitive word game.
+
+
 ---
 
 ## Features
